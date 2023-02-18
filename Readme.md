@@ -1,6 +1,5 @@
 # Stuff About Me
 - i code
-- 
 - [My Twitter](https://links.foxdev.ml/twitter)
 
 # Front:
