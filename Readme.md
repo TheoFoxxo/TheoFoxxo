@@ -1,5 +1,7 @@
 # Stuff About Me
 - i code
+- 
+- [My Twitter](https://links.foxdev.ml/twitter)
 
 # Front:
 ![frontend?](https://skillicons.dev/icons?i=html,sass,css,react,php,vue)
