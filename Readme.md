@@ -19,7 +19,7 @@
       </a><br>
     </h3>
   <hr>
-  <h1>Tanguages and Tools</h1>
+  <h1>Languages and Tools</h1>
   <p>
     <img src='https://skillicons.dev/icons?i=mongodb,typescript,javascript,python,java,lua'/>
   <p/>
