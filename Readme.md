@@ -3,14 +3,14 @@
     <h3>
          Full Stack Web Developer<br>
          Bisexual<br>
-         He / Him<br>
-        <img src="https://cdn.discordapp.com/emojis/1088231444591169576.webp?size=28&quality=lossless"><br>
+         He / Him<br><br>
+       <img style="border-radius:10px" src="https://cdn.discordapp.com/emojis/626500724859076648.gif?size=256&quality=lossless"><br>
     </h3>
   <hr>
   <h1>About Me</h1>
     <h3>
       Furry<br>
-      Foxxo 🦊<br>
+      Foxxo<br>
       <a href="https://foxdev.ml">
         Website
       </a><br>
