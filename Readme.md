@@ -30,6 +30,8 @@
     <img src='https://skillicons.dev/icons?i=tailwind,figma,next,vscode,visualstudio,idea'/>
   <p/>
   <hr/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TheodoreTheFox&show_icons=true"><br>
+  <hr/>
   <h3>
   If you want me to work on a project, send me a message.</br>
   Theodore#9999
