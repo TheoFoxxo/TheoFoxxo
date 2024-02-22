@@ -1,4 +1,4 @@
-<div align="center"> 
+![image](https://github.com/TheoFoxxo/TheoFoxxo/assets/56260438/2a05dafa-7b4d-4204-9810-b72d97454769)<div align="center"> 
   <h1 style="font-weight: bold">Theodore ❤️</h1>
     <h3>
          Full Stack Web Developer<br>
@@ -11,10 +11,11 @@
     <h3>
       Furry<br>
       Foxxo<br>
-      <a href="https://foxdev.ml">
+      <a href="https://theodev.uk">
         Website
       </a><br>
-      <a href="https://links.foxdev.ml/twitter">
+      <!-- Old Domain isn't valid -->
+      <a href="https://twitter.com/GayTheoo">
         Twitter
       </a><br>
     </h3>
@@ -33,7 +34,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=TheoFoxxo&show_icons=true&theme=dark"><br>
   <hr/>
   <h3>
-  If you want me to work on a project, send me a message.</br>
-  <h3 style="font-weight: bold">Theodore#3148</h3>
+  If you want me to work on a project, send me a message on Discord!</br>
+  <h3 style="font-weight: bold">@theofoxxo</h3>
   </h3>
 </div>
