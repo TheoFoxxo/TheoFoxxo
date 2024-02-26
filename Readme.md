@@ -1,4 +1,5 @@
 ![image](https://github.com/TheoFoxxo/TheoFoxxo/assets/56260438/2a05dafa-7b4d-4204-9810-b72d97454769)<div align="center"> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/664017668629856266)](https://discord.com/users/664017668629856266)
   <h1 style="font-weight: bold">Theodore ❤️</h1>
     <h3>
          Full Stack Web Developer<br>
